@@ -1,13 +1,14 @@
-.first-second {
+.inverted,
+.fancy {
   font-size: 28px;
   font-family: "Helvetica", "Times New Roman" sans-serif;
 }
 
-.first {
+.inverted {
   background-color: #000000;
   color: #ffffff;
 }
 
-.second {
+.fancy {
   background-color: #ffff00;
 }
